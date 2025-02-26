@@ -42,6 +42,15 @@ MedBookingBTL
     <div><b>HUỚNG DẪN KHÁCH HÀNG</b></div>
     <div><b>THÔNG TIN BỆNH VIỆN </b></div>
     <div><b> DỊCH VỤ Y TẾ </b></div>
+      <!-- <div><b> DỊCH VỤ Y TẾ </b></div> -->
+               <div class="menu-item">Dịch vụ y tế
+                <ul class="dropdown">
+                    <li><a href="#">Lấy mẫu xét nghiệm tận nơi</a></li>
+                    <li><a href="#">Dịch vụ bảo hiểm</a></li>
+                    <li><a href="#">Gói khám sức khỏe</a></li>
+                    <li><a href="#">Đăng ký khám & Tư vấn</a></li>
+                </ul>
+                </div>
  </div>
  </div>
  <p> BENH VIEN DA KHOA TRUNG UONG QUANH KHU VUC BAC TU LIEM</p>
